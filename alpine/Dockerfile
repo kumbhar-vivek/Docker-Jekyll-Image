@@ -1,5 +1,5 @@
 FROM alpine:3.10.3
-LABEL maintainer imviveka
+LABEL maintainer kumbhar-vivek
 
 RUN apk add --no-cache \
 								gmp-dev

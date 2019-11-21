@@ -1,5 +1,5 @@
 FROM debian:stretch
-LABEL maintainer imviveka
+LABEL maintainer kumbhar-vivek
 
 RUN apt-get update \
 	&& apt-get install -y --no-install-recommends \

@@ -1,5 +1,5 @@
 jekyll:
-  image: imviveka-stretch
+  image: kumbhar-vivek
   command: jekyll serve
   ports:
     - 80:80
