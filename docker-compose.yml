@@ -1,0 +1,7 @@
+jekyll:
+  image: imviveka-stretch
+  command: jekyll serve
+  ports:
+    - 80:80
+  volumes:
+    - .:/home/jekyll
